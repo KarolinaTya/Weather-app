@@ -25,6 +25,10 @@ input {
 a {
   height: 45px;
 }
+p {
+  text-align: center;
+  font-family: "Spectral SC", serif;
+}
 .container {
   font-size: 30px;
 }
